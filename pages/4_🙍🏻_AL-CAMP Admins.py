@@ -1,13 +1,9 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import mysql.connector
 import warnings
-import plotly.graph_objects as go
-
 warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title='AL-CAMP Admins', page_icon=":chart_with_upwards_trend:",layout="wide", 
