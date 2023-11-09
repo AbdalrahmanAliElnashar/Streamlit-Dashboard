@@ -1,0 +1,3 @@
+pandas =1.4.1
+dash=12.12.2
+mysql.connector=8.2.0
