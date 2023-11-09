@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
+
 import plotly.express as px
 import mysql.connector
 import warnings
-import plotly.graph_objects as go
+
 
 warnings.filterwarnings('ignore')
 
